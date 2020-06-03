@@ -44,3 +44,4 @@ vitual machine is an emulation of OS or operating system, it is the opportunity 
 	$ vagrant@vagrant-ubuntu-trusty-64:
 	```
 	### **And you're already working with VM and Vagrant**
+	#No se desanimen! que si otros pudieron tambien nosostros podemos hacerlo!#
